@@ -7,7 +7,7 @@ Proje github linki : https://github.com/kadirkuzu/AirlinesProject
 
 * **Hazırlayanlar:**
 - Mustafa Karadeniz G211210066 / 2-A  / mustafa.karadeniz1@ogr.sakarya.edu.tr
-- Ejder Kadir Kuzu  G211210351 / 2-A / ejder.kuzu@ogr.sakarya.edu.tr
+- Ejder Kadir Kuzu  G221210351 / 2-A / ejder.kuzu@ogr.sakarya.edu.tr
 
 * **Dersi verenler:**
 - Prof.Dr. CELAL ÇEKEN
